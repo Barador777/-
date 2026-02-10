@@ -9,9 +9,12 @@
 1. pyTelegramBotAPI 
 
   ```pip install pyTelegramBotAPI```
+
 2. apscheduler 
   ```pip install apscheduler```
+
 3. sqlite3 
+
 (Встроена в Python по умолчанию)
 
 ## За что отвечает каждая библиотека
